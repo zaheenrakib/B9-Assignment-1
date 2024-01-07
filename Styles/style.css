@@ -232,17 +232,27 @@ span {
     border-radius: 10px;
 }
 .top{
-    display: block;
+    display: flex;
     justify-content: space-between;
+    padding: 60px;
 }
 
 
 
 .logo-section{
-    display: flex;
     margin: auto;
+    width: 25%;
+    padding: 25px;
 }
 
 .down{
+    padding: 60px;
+    display: flex;
     justify-content: space-between;
+}
+hr{
+    width: 92%;
+}
+.right{
+    width: 300px;
 }
