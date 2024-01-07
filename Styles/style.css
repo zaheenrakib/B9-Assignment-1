@@ -98,7 +98,7 @@ section {
 .parag {
     margin-top: 0px;
     width: 697px;
-    color: #d7cbcb;
+    color: #716d6d;
 }
 
 .btn-primary {
@@ -142,4 +142,107 @@ span {
     width: 50%;
     padding: 120px;
     line-height: 10px;
+}
+
+/* Start Fourth Section */
+
+/* Start Fifth Section */
+
+/* Start Sixth Section */
+.Port-title {
+    color: #070211;
+    margin: 5px 0px 5px 0px;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+/* Start Seven Section */
+
+.seventh {
+    margin-top: 50px;
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    background-color: #d7cbcb;
+    border-radius: 10px;
+}
+
+.mail-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px 80px 0px 80px;
+}
+
+.newsletter {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.para {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 0px 300px 0px 300px;
+}
+
+.subscribe {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    width: 648px;
+    height: 72px;
+}
+
+.input-text {
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    padding: 20px;
+    outline: none;
+    border: none;
+    width: 70%;
+    margin-right: -10px;
+}
+
+.btn-sub {
+    width: 20%;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    padding: 20px;
+    outline: none;
+    border: none;
+}
+
+
+/* Start Footer */
+
+.foot {
+    color: #FFF;
+    width: 1320px;
+    height: 609px;
+    flex-shrink: 0;
+    background: #070211;
+    border-radius: 10px;
+}
+.top{
+    display: block;
+    justify-content: space-between;
+}
+
+
+
+.logo-section{
+    display: flex;
+    margin: auto;
+}
+
+.down{
+    justify-content: space-between;
 }
