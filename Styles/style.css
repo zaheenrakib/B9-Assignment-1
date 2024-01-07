@@ -1,0 +1,145 @@
+body {
+    margin: 10px;
+    font-family: 'Merriweather', serif;
+}
+
+/* Start  Header Part */
+header {
+    width: 100%;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+}
+
+.happy {
+    margin: auto;
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.new-year {
+    margin: auto;
+    width: 632px;
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Start First Section */
+.percent {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.holy {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0px;
+}
+
+.new-year-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Start Second-Section */
+
+.second-section {
+    width: 100%;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+}
+
+section {
+    margin-top: 20px;
+}
+
+.welcome {
+    color: #FFF;
+    width: 642px;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-top: 0px;
+}
+
+.parag {
+    margin-top: 0px;
+    width: 697px;
+    color: #d7cbcb;
+}
+
+.btn-primary {
+    color: #FFF;
+    border: none;
+    font-size: 24px;
+    font-weight: 900;
+    border-radius: 10px;
+    background-color: rgb(14, 182, 126);
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.sec-content {
+    padding: 100px 50px 100px 100px;
+}
+
+/* Start Third Section */
+
+.third-section {
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: #d7cbcb;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+}
+
+span {
+    color: #F00;
+}
+
+.content {
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    margin: auto;
+    line-height: 16px;
+    width: 50%;
+    padding: 120px;
+    line-height: 10px;
+}
