@@ -1,6 +1,6 @@
 body {
     margin: 10px;
-    font-family: 'Merriweather', serif;
+    /* font-family: 'Merriweather', serif; */
 }
 
 /* Start  Header Part */
@@ -146,10 +146,18 @@ span {
 
 /* Start Fourth Section */
 .fourth {
+    background-color: #b39f9f;
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
     width: 1320px;
     height: 435px;
+}
+.left-content{
+    padding: 20px;
+}
+.f-h1{
+    font-size: 40px;
 }
 
 .left-para {
