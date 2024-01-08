@@ -145,6 +145,22 @@ span {
 }
 
 /* Start Fourth Section */
+.fourth {
+    display: flex;
+    justify-content: space-between;
+    width: 1320px;
+    height: 435px;
+}
+
+.left-para {
+    font-size: 16px;
+    width: 400px;
+}
+.mid-img{
+    padding: 20px;
+    border-radius: 50%;
+    border: 10px solid red;
+}
 
 /* Start Fifth Section */
 
@@ -231,7 +247,8 @@ span {
     background: #070211;
     border-radius: 10px;
 }
-.top{
+
+.top {
     display: flex;
     justify-content: space-between;
     padding: 60px;
@@ -239,20 +256,22 @@ span {
 
 
 
-.logo-section{
+.logo-section {
     margin: auto;
     width: 25%;
     padding: 25px;
 }
 
-.down{
+.down {
     padding: 60px;
     display: flex;
     justify-content: space-between;
 }
-hr{
+
+hr {
     width: 92%;
 }
-.right{
+
+.right {
     width: 300px;
 }
